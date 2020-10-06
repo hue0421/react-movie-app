@@ -35,7 +35,11 @@ const TitleStyle = styled.div`
   font-weight: 500;
   font-size: 20px;
 `;
-const ButtonStyle = styled.button``;
+const ButtonStyle = styled.button`
+  margin-top: auto;
+  background-color: dodgerblue;
+  color: white;
+`;
 const TextStyle = styled.div`
   display: flex;
   flex-wrap: wrap;

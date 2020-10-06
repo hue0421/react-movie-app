@@ -20,7 +20,7 @@ const ListStyle = styled.li`
   width: 160px;
   height: 50px;
   display: inline-block;
-  background-color: white;
+  background-color: slateblue;
   position: relative;
   top: 10px;
   left: 50px;
@@ -33,7 +33,7 @@ const SubmitStyle = styled.li`
   width: 160px;
   height: 50px;
   display: inline-block;
-  background-color: white;
+  background-color: slateblue;
   position: relative;
   top: 10px;
   left: 50px;
@@ -48,15 +48,12 @@ const Header = () => {
     <HeaderStyle>
       <HeaderBoxStyle>
         <ListStyle>
-          <Link
-            to="/list"
-            style={{ textDecoration: "none", color: "slateblue" }}
-          >
+          <Link to="/list" style={{ textDecoration: "none", color: "white" }}>
             영화목록
           </Link>
         </ListStyle>
         <SubmitStyle>
-          <Link to="/" style={{ textDecoration: "none", color: "slateblue" }}>
+          <Link to="/" style={{ textDecoration: "none", color: "white" }}>
             영화등록
           </Link>
         </SubmitStyle>
