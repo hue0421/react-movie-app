@@ -1,18 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 리엑트 CRUD 영화 앱 만들기
 
 ## Available Scripts
 
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/1.png)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/2.png)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/3.png)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/4.png)
+
 In the project directory, you can run:
 
+### 설치
+
 ### `yarn start`
+
+- npx create-react-app movie-app
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### 확장 프로그램 설치
+
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+- ESLint
+- Prettier
+- Reactjs code snippets
+- vscode-styled-components
+
 ### `yarn test`
+
+### 라이브러리
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -66,3 +84,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+- npm install --save styled-components
+- npm i react-router-dom
