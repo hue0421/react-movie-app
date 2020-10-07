@@ -2,10 +2,10 @@
 
 ## Available Scripts
 
-![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/1.png)
-![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/2.png)
-![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/3.png)
-![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/4.png)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/1.jpg)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/2.jpg)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/3.jpg)
+![img](https://github.com/hue0421/React-Movie-App/blob/master/preview/4.jpg)
 
 In the project directory, you can run:
 
